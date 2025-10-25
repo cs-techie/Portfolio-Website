@@ -17,7 +17,7 @@ Project is created with:
 ## View the website
 To view the website, click on the link below:
 
-https://shankar-pendyala.vercel.app/
+https://portfolio-website.pages.dev/
 
 ## If you like this project, please give it a 🌟.
 ## Thank you 😊.
