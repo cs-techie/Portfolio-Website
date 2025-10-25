@@ -1,8 +1,9 @@
-# TODO: Update Portfolio to Web Developer Theme
+# TODO: Deploy Portfolio to Cloudflare Pages
 
 ## Tasks
-- [x] Update social links in nav section in index.html to correct handles (GitHub: cs-techie, LinkedIn: shankar-s15, Twitter: Krish_Depani, email: shankarpendyala006@gmail.com).
-- [x] Adjust project descriptions in index.html: Rephrase Sign Language Detection as a web app for real-time sign language recognition via web interface. Rephrase Telegram Bot to highlight web-related features or note it's a backend service.
-- [x] Update all project GitHub links in index.html to use 'cs-techie'.
-- [x] Mark completed tasks in TODO.md.
-- [x] Test the site locally to verify changes and responsiveness.
+- [ ] Connect GitHub repository (https://github.com/cs-techie/Portfolio-Website) to Cloudflare Pages via Cloudflare Dashboard.
+- [ ] Configure build settings: Root directory '/', Build command 'None' (static site), Build output directory '/'.
+- [ ] Deploy the site on Cloudflare Pages.
+- [ ] Update CNAME file: Remove or update to the new Cloudflare Pages domain (e.g., portfolio-website.pages.dev).
+- [ ] Update README.md: Change the deployment URL from Vercel to the new Cloudflare Pages URL.
+- [ ] Test the deployed site on Cloudflare Pages for functionality and responsiveness.
